@@ -12,7 +12,7 @@
 ####    planWhite, coupanWhite, userProfileHeader
 #### }
 ####----------------------------  
-#### 1.how to add layout in react project 
+#### 2.how to add layout in react project 
 #### Layout.jsx
 #### import React from 'react';
 #### import Header from '../components/Header';
